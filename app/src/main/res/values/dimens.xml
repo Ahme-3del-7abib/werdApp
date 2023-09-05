@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header_text_size">25sp</dimen>
+    <dimen name="resources_header_text_size">32sp</dimen>
+    <dimen name="main_text_size">18sp</dimen>
+    <dimen name="main_row_margin_left">30dp</dimen>
+    <dimen name="main_row_margin_right">30dp</dimen>
+    <dimen name="card_view_margin_right">5dp</dimen>
+    <dimen name="text_margin_right">10dp</dimen>
+    <dimen name="image_margin_right">10dp</dimen>
+    <dimen name="card_view_margin_left">5dp</dimen>
+    <dimen name="row_margin_top">5dp</dimen>
+    <dimen name="main_card_view_elvation">3dp</dimen>
+    <dimen name="dark_green_back_height">300dp</dimen>
+    <dimen name="light_green_back_height">200dp</dimen>
+    <dimen name="linear_title_margin_right">20dp</dimen>
+    <dimen name="sera_toolbar_padding_right">13dp</dimen>
+    <!-- Question Display Activity Dimen    qd... activity name -->
+    <dimen name="qd_side_view_width">16dp</dimen>
+    <dimen name="qd_side_view_margin">8dp</dimen>
+    <dimen name="qd_linear_container_margin">32dp</dimen>
+    <dimen name="qd_share_margin">4dp</dimen>
+    <dimen name="qd_card_elevation">5dp</dimen>
+    <dimen name="qd_card_radius">10dp</dimen>
+    <dimen name="qd_linear_round_back_elevation">15dp</dimen>
+    <dimen name="qd_question_text_size">20sp</dimen>
+    <dimen name="qd_answer_text_size">16sp</dimen>
+    <dimen name="qd_resource_text_size">12sp</dimen>
+    <dimen name="qd_pages_numbers_text_size">18sp</dimen>
+    <dimen name="resource_toolbar_height">100dp</dimen>
+</resources>

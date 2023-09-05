@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">وِرْد</string>
+    <string name="napi_werd">ورد الصلاة علي النبي</string>
+    <string name="baquat_werd">ورد الباقيات الصالحات</string>
+    <string name="estg_werd">ورد الإستغفار</string>
+    <string name="eklas_werd">ورد سورة الإخلاص</string>
+    <string name="hello_blank_fragment">Hello blank </string>
+    <string name="_0">0</string>
+    <string name="_ok">موافق</string>
+    <string name="start_new_werd">بداء الورد من جديد ؟</string>
+    <string name="back">back</string>
+    <string name="salahNabWerd">ورد الصلاة علي النبي</string>
+    <string name="salahNabiQadr">قدر ورد الصلاة علي النبي</string>
+    <string name="_100">100</string>
+    <string name="_500">500</string>
+    <string name="_1000">1000</string>
+    <string name="werdEstQadr">قدر ورد الإستغفار</string>
+    <string name="baqyatQadr">قدر ورد الباقيات الصالحات</string>
+    <string name="save_changes">حفط التغيرات</string>
+    <string name="saved_success">تم الحفظ بنجاح</string>
+    <string name="error_happened">حدث خطاء ما , من فضلك حاول لاحقا.</string>
+
+    <string name="todo">TODO</string>
+    <string name="settings">الإعدادات</string>
+    <string name="cant_save">لا يمكنك حفظ حقول فارغة.</string>
+    <string name="salah_content">اللهم صل وسلم على نبينا محمد</string>
+    <string name="ekhlas_sura">قُلْ هُوَ اللَّهُ أَحَدٌ * اللَّهُ الصَّمَد ُ* لَمْ يَلِدْ وَلَمْ يُولَدْ * وَلَمْ يَكُن لَّهُ كُفُواً أَحَدٌ</string>
+    <string name="al_baqyat_al_salhat">سبحان الله و الحمد لله و لا اله الا الله و الله أكبر.</string>
+    <string name="astgfr_allah">أستغفر الله العظيم و أتوب اليه.</string>
+    <string name="fixed_werds">أوراد ثابتة</string>
+    <string name="create_werd">أنشئ وردك</string>
+    <string name="add_werd">إضافة ورد</string>
+    <string name="save">حفظ</string>
+    <string name="enter_werd_name">أدخل اسم الورد</string>
+    <string name="werd_count">قدر الورد</string>
+    <string name="start_werd">بداء الورد</string>
+    <string name="edit_werd">تعديل الورد</string>
+    <string name="no_werd_found">لا يوجد أوراد لعرضها</string>
+    <string name="delete_werd">حذف الورد</string>
+    <string name="edit">تعديل</string>
+    <string name="enter_werd_content">أدخل نص الورد</string>
+
+    <string name="enter_werd_count">أدخل قدر الورد</string>
+    <string name="reset_count">تصفير العدد</string>
+    <string name="edit_werd_count">تعديل قدر الورد</string>
+    <string name="cancel">إلغاء</string>
+    <string name="OK">موافق</string>
+
+    <string name="must_enter_werd_count">يجب إدخال قدر الورد.</string>
+    <string name="must_enter_werd_content">يجب إدخال نص الورد.</string>
+    <string name="must_enter_werd_name">يجب إدخال اسم الورد.</string>
+    <string name="must_enter_werd_count_and_name_and_content">يجب إدخال اسم الورد و نص الورد و قدر الورد.</string>
+    <string name="max_count_must_be_more_than_current">يجب إدخال قدر للورد أكبر من العدد الذي تم الوصول اليه.</string>
+    <string name="failed_delete_item">فشل في مسح العنصر</string>
+</resources>

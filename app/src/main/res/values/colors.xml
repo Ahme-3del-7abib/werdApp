@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="dark_gray">#4D4D4D</color>
+    <color name="dark_gray2">#606470</color>
+    <color name="dark_gray_3">#686868</color>
+    <color name="semi_gray">#A2A2A2</color>
+    <color name="semi_gray_2">#B7B7B7</color>
+    <color name="gray_card">#E2E2E2</color>
+    <color name="chat_gray">#BCC5D3</color>
+    <color name="chat_gray_container">#4C5264</color>
+    <color name="light_gray">#CED6E0</color>
+    <color name="light_gray2">#F0F6FD</color>
+    <color name="low_gray">#0708081F</color>
+    <color name="light_gray3">#E5EFFC</color>
+    <color name="light_gray4">#DDDDDD</color>
+    <color name="low_gray2">#E5E7E9</color>
+    <color name="very_low_gray">#0000000D</color>
+    <color name="very_low_gray2">#F7F7F7</color>
+    <color name="roz_color">#33D9B2</color>
+    <color name="yellow_color">#FECE4C</color>
+    <color name="blue_color">#7085F8</color>
+    <color name="blue_color2">#687BE7</color>
+    <color name="dark_red">#CE0755</color>
+    <color name="semi_blue">#607085F8</color>
+    <color name="red_background">#FD6A6A</color>
+    <color name="bink">#FFF0F0</color>
+    <color name="semi_dark_yellow">#FFD45F</color>
+    <color name="semi_dark_gray">#343A50</color>
+    <color name="ver_low_gray_2">#FDFDFD</color>
+    <color name="custom_gray">#A2A2A2</color>
+    <color name="dark_yellow">#FFBD4D</color>
+    <color name="dark_yellow2">#F4BA1B</color>
+    <color name="gray_view">#DADEE3</color>
+    <color name="green_color">#33d9b2</color>
+    <color name="seperator_colors">#E6E6E6</color>
+    <color name="plu_black">#60000000</color>
+    <color name="hint_color">#C5C5C5</color>
+
+    <color name="simmer_grey_color">#DCE6F2</color>
+    <color name="silver">#B2B2B2</color>
+    <color name="bronz">#8CA9C9</color>
+    <color name="bronz2">#DCE6F2</color>
+    <color name="dark_green">#5CAC7D</color>
+    <color name="great_color">#D9AE56</color>
+    <color name="good_color">#FCA785</color>
+    <color name="meh_color">#FA5769</color>
+    <color name="bad_color">#C6345C</color>
+
+    <color name="grey_i">#576574</color>
+    <color name="grey_ii">#8395a7</color>
+
+    <color name="green_i">#125337</color>
+    <color name="green_ii">#10ac84</color>
+
+    <color name="transparent">#00FFFFFF</color>
+
+</resources>
